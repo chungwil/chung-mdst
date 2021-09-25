@@ -1,0 +1,3 @@
+Hi! My name is Will
+I am a third year data science student
+Fun fact: I interned at GM last summer as a business intelligence intern!
